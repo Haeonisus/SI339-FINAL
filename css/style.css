@@ -247,7 +247,7 @@ h3 {
     flex-direction: row;
     justify-content: space-between;
   }
-  img.me {
+  img.logo, img.me {
     width: 18%;
   }
   .mypeople {
