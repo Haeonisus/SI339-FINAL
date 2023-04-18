@@ -216,7 +216,7 @@ h3 {
     grid-template-columns: 1fr 1fr;
   }
   .mypeople img, .three-d img {
-    width: 80%;
+    width: 50%;
   }
   a.singapore, a.friend, a.woorinara {
     grid-column: 1/-1;
@@ -235,7 +235,7 @@ h3 {
     grid-column: 1/-1;
   }
   img.chess, img.charm {
-    width: 40%;
+    width: 30%;
   }
   div.soil {
     grid-template-columns: 1fr 1fr;
@@ -248,13 +248,13 @@ h3 {
     justify-content: space-between;
   }
   img.me {
-    width: 20%;
+    width: 18%;
   }
   .mypeople {
     grid-template-columns: 2fr 2fr 2fr;
   }
   .mypeople img {
-    width: 70 .mypeople img;
+    width: 60%;
   }
   a.singapore, a.friend {
     grid-column: 1/span 1;
@@ -275,11 +275,14 @@ h3 {
   div.three-d, div.soil {
     grid-template-columns: 1fr 1fr 1fr;
   }
+  .three-d img {
+    width: 60%;
+  }
   a.chess {
     grid-column: 1/span 1;
   }
-  img.chess, img.charm, img.bowl {
-    width: 80%;
+  img.charm {
+    width: 70%;
   }
   a.charm {
     grid-column: 3/-1;
