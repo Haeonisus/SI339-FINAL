@@ -70,6 +70,12 @@ h1 {
   font-family: "FZYaoTi", Helvetica, Georgia, "Times New Roman";
 }
 
+p.click {
+  background-color: #00569D;
+  padding: 10px;
+  color: white;
+}
+
 div.aboutme {
   display: flex;
   flex-direction: column;
