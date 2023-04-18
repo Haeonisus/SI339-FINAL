@@ -242,9 +242,9 @@ h3 {
         }
     }
 
-    a.singapore, a.friend {
+    a.singapore, a.friend, a.woorinara {
         grid-column: 1 / -1;
-        width: 60%;
+        width: 50%;
     }
 
     div.work {
@@ -299,6 +299,11 @@ h3 {
     a.Yena {
         grid-column: 1 / -1;
         width: 33.3%;
+    }
+
+    a.woorinara {
+        grid-column: 3 / -1;
+        width: 100%;
     }
 
     video {

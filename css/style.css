@@ -212,9 +212,9 @@ h3 {
   .mypeople img, .three-d img {
     width: 80%;
   }
-  a.singapore, a.friend {
+  a.singapore, a.friend, a.woorinara {
     grid-column: 1/-1;
-    width: 60%;
+    width: 50%;
   }
   div.work {
     display: flex;
@@ -257,6 +257,10 @@ h3 {
   a.Yena {
     grid-column: 1/-1;
     width: 33.3%;
+  }
+  a.woorinara {
+    grid-column: 3/-1;
+    width: 100%;
   }
   video {
     width: 30%;
