@@ -216,7 +216,7 @@ h3 {
     grid-template-columns: 1fr 1fr;
   }
   .mypeople img, .three-d img {
-    width: 50%;
+    width: 70%;
   }
   a.singapore, a.friend, a.woorinara {
     grid-column: 1/-1;
@@ -235,7 +235,7 @@ h3 {
     grid-column: 1/-1;
   }
   img.chess, img.charm {
-    width: 30%;
+    width: 35%;
   }
   div.soil {
     grid-template-columns: 1fr 1fr;
@@ -252,9 +252,6 @@ h3 {
   }
   .mypeople {
     grid-template-columns: 2fr 2fr 2fr;
-  }
-  .mypeople img {
-    width: 60%;
   }
   a.singapore, a.friend {
     grid-column: 1/span 1;
